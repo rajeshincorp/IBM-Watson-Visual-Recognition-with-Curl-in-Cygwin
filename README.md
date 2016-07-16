@@ -1,4 +1,4 @@
-# IBM-Watson-Visual-Recognition-with-Curl-in-Cygwin
+# IBM-Watson-Visual-Recognition-with-cURL-in-Cygwin
 This repository shows the steps to execute cURL commands in Cygwin in order to use IBM Watson Visual Recognition API v3 : Dated 15/7/2016.
 
 <b>Step 1:</b> Download Cygwin from "https://www.cygwin.com/".
